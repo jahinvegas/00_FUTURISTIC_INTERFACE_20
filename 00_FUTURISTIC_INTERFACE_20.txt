@@ -1,6 +1,9 @@
+<!  00_FUTURISTIC_INTERFACE_20   ->
+<!  ===========================   ->
+
 <!DOCTYPE html>
 <html lang="en">
-
+<!  ===========================   ->
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -142,7 +145,7 @@
         }
     </style>
 </head>
-
+<!  ===========================   ->
 <body>
     <header>
         <img src="https://images.cooltext.com/5741098.png" width="732" height="113" alt="JAHINVEGAS" />
@@ -150,7 +153,7 @@
 
         <img src="https://images.cooltext.com/5741097.png" width="246" height="25" alt="00_FUTURISTIC_INTERFACE_20" />
     </header>
-
+<!  ===========================   ->
     <main>
         <img src="https://images.cooltext.com/5741099.png" width="193" height="53" alt="DOC911" />
 
@@ -166,19 +169,22 @@
                 </iframe>
             </div>
         </div>
-
+<!  ===========================   ->
         <!-- CTA -->
         <div class="cta-section">
             <a href="#explore" class="cta-button">Explore the Future</a>
         </div>
-
+<!  ===========================   ->
         <!-- Image + Caption -->
         <div class="image-section">
             <img src="squeaky_g.webp" alt="Futuristic Mouse" class="futuristic-image" />
-            <p class="image-caption">Meet Squeaky G – The Future Guide</p>
+         
+            <img src="https://images.cooltext.com/5741148.png" width="680" height="40" alt="Meet Squeaky G - The Future Guide" />
+            
+            
         </div>
     </main>
-
+<!  ===========================   ->
     <footer>
         <img src="https://images.cooltext.com/5741096.png" width="600" height="27" alt=" © 2024 FUTURISTIC INTERFACE. ALL RIGHTS RESERVED." />
     </footer>
